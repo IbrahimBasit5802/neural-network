@@ -40,7 +40,7 @@
 
 <h2>Compile and Run</h2>
 
-<p>To compile and run the code on Linux using the thread library, follow these steps:</p>
+<p>To compile and run the code on Linux using the pthread library, follow these steps:</p>
 
 <ol>
   <li>Clone this repository to your desired location using the following command:</li>
